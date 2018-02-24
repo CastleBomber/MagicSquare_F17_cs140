@@ -2,7 +2,7 @@
 // Name        : Vectors:	MagicSquare.cpp
 // Author      : [CastleBombs]
 // Date        : (THURS, 5 OCT 17)
-// Class	   : cs 140, C++ Object Oriented Programming
+// Class       : cs 140, C++ Object Oriented Programming
 // Instructor  : Professor Jackie Kuehn
 //============================================================================
 
